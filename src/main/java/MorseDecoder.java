@@ -87,7 +87,7 @@ public class MorseDecoder {
         // else if issilence and wassilence
         // else if issilence and not wassilence
 
-        return "";
+        return " ";
     }
 
     /**
